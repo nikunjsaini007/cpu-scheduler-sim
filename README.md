@@ -20,15 +20,15 @@ Simulates an OS scheduler distributing processes across multiple CPU cores. Trac
 
 ## 🧠 OS Concepts
 - CPU Scheduling & Queues  
-- Multi-core execution  
+- Multicore execution  
 - Turnaround, Waiting, Completion time  
 - CPU utilization calculation  
 
 ---
 
 ## 💻 Language & Concepts
-Language: C
-Concepts: Operating Systems, CPU Scheduling, Queues, Multi-core Execution, Performance Metrics
+- Language: C
+- Concepts: Operating Systems, CPU Scheduling, Queues, Multicore Execution, Performance Metrics
 
 ---
 
