@@ -48,6 +48,7 @@ cd path/to/cpu-scheduler-sim
 gcc main.c -o scheduler
 ```
 This will create an executable file:
+
 scheduler.exe (Windows) or scheduler (Linux/macOS)
 
 3. Run the Program
@@ -61,7 +62,9 @@ Linux/macOS:
 ```
 
 5. Input File Setup
+
 Make sure input.txt is in the same folder as the executable.
 
-6. DONE
+7. DONE
+
 If everything is correct, the scheduler will start and display CPU core execution logs in real time.
